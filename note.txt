@@ -1,0 +1,8 @@
+DOM-(Document Object Model)
+...........................
+Dom methods
+  1.document.getElementsByTagName('tag name')
+  2.document.getElementsById('Id')
+  3.document.getElementsByClassName('className')
+  4.document.querySelector('tagname/.className/#Id')  - singleElement
+  5. document.querySelectorAll('tagname/.className/#Id') -collection of Elmt
